@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="start_date_and_time" table="x_786590_time_tr_0_activities">
+        <active>true</active>
+        <array>false</array>
+        <attributes>edge_encryption_enabled=true</attributes>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Start Date and Time</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>start_date_and_time</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="">glide_date_time</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_786590_time_tr_0_activities</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 17:05:27</sys_created_on>
+        <sys_name>Start Date and Time</sys_name>
+        <sys_package display_value="Time Tracker ProD" source="x_786590_time_tr_0">17e6a106977d8210dfe9ba6de053af2a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Tracker ProD">17e6a106977d8210dfe9ba6de053af2a</sys_scope>
+        <sys_update_name>sys_dictionary_x_786590_time_tr_0_activities_start_date_and_time</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 17:05:27</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Time Tracker ProD">17e6a106977d8210dfe9ba6de053af2a</application>
+        <file_path/>
+        <instance_id>2d259c161bb2f990fe1b43f4bd4bcbdf</instance_id>
+        <instance_name>dev230375</instance_name>
+        <name>sys_dictionary_x_786590_time_tr_0_activities_start_date_and_time</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="INSERT_OR_UPDATE" element="start_date_and_time" table="x_786590_time_tr_0_activities">
+        <active>true</active>
+        <array>false</array>
+        <attributes>edge_encryption_enabled=true</attributes>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Start Date and Time</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>start_date_and_time</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="">glide_date_time</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_786590_time_tr_0_activities</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 17:05:27</sys_created_on>
+        <sys_name>Start Date and Time</sys_name>
+        <sys_package display_value="Time Tracker ProD" source="x_786590_time_tr_0">17e6a106977d8210dfe9ba6de053af2a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Tracker ProD">17e6a106977d8210dfe9ba6de053af2a</sys_scope>
+        <sys_update_name>sys_dictionary_x_786590_time_tr_0_activities_start_date_and_time</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 17:05:27</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+</record_update>]]></payload>
+        <payload_hash>1840669475</payload_hash>
+        <record_name>Activities.Start Date and Time</record_name>
+        <reverted_from/>
+        <source>af685a829771c210dfe9ba6de053afa9</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 20:31:29</sys_created_on>
+        <sys_id>b878da829771c210dfe9ba6de053af60</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f214175ad0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 20:31:29</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>7478da826671c210c5cb5ec00ee07460</update_guid>
+        <update_guid_history>7478da826671c210c5cb5ec00ee07460:0,56d396caa631c2102caf10bd176d2981:-1188297669,99c756421a71c210062ae75531e34568:0,56d396caa631c2102caf10bd176d2981:-1188297669,49d65aced831c210fbafcdc55e02b228:0,56d396caa631c2102caf10bd176d2981:-1188297669,f249a1c6137d82108efcd8b57d018d19:947808135</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 20:31:49</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>10244bc261974bd3abfdf3e09cc99339</sys_id>
+        <sys_metadata>98789a829771c210dfe9ba6de053af7a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Start Date and Time</sys_name>
+        <sys_package display_value="Time Tracker ProD" source="x_786590_time_tr_0">17e6a106977d8210dfe9ba6de053af2a</sys_package>
+        <sys_parent display_value="Activities">2a4961c6977d8210dfe9ba6de053afa7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Time Tracker ProD">17e6a106977d8210dfe9ba6de053af2a</sys_scope>
+        <sys_scope_delete display_value="">3144c54eebf64dae8dde94742cd296e4</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_786590_time_tr_0_activities_start_date_and_time</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_786590_time_tr_0_activities_start_date_and_time">b878da829771c210dfe9ba6de053af60</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 20:31:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

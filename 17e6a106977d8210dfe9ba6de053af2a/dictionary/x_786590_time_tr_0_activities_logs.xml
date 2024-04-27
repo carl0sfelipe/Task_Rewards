@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="bed79a429771c210dfe9ba6de053afed" label="Activities Logs" max_length="40" name="x_786590_time_tr_0_activities_logs" type="collection">
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Activity Done" max_length="32" name="activity_done" reference="x_786590_time_tr_0_activities" type="reference"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Activity Planned" max_length="32" name="activity_planned" reference="x_786590_time_tr_0_activities" type="reference"/>
+        <element label="End Time" max_length="40" name="end_time" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Start Time" max_length="40" name="start_time" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Type" max_length="32" name="type" reference="x_786590_time_tr_0_activities" type="reference"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="activity_done"/>
+        </index>
+        <index name="index2">
+            <element name="activity_planned"/>
+        </index>
+        <index name="index3">
+            <element name="type"/>
+        </index>
+        <index name="index4">
+            <element name="user"/>
+        </index>
+    </element>
+</database>
