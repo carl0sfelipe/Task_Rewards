@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2a4961c6977d8210dfe9ba6de053afa7" label="Activities" max_length="40" name="x_786590_time_tr_0_activities" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Activity Name" max_length="40" name="activity_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Category" max_length="40" name="category" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="40" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="End Date and Time" max_length="40" name="end_date_and_time" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Points Earned" max_length="40" name="points_earned" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Start Date and Time" max_length="40" name="start_date_and_time" type="glide_date_time"/>
+        <element label="Total Points" max_length="40" name="total_points" type="integer"/>
+    </element>
+</database>
